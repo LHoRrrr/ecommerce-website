@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/LHoRrrr.github.io/ecommerce-website/static/css/main.e0f207b3.css",
-    "main.js": "/LHoRrrr.github.io/ecommerce-website/static/js/main.a0575ccd.js",
+    "main.js": "/LHoRrrr.github.io/ecommerce-website/static/js/main.00fac0a0.js",
     "static/js/453.076d0c45.chunk.js": "/LHoRrrr.github.io/ecommerce-website/static/js/453.076d0c45.chunk.js",
     "static/media/logo2.png": "/LHoRrrr.github.io/ecommerce-website/static/media/logo2.c51a4fafbc25806e0e7e.png",
     "index.html": "/LHoRrrr.github.io/ecommerce-website/index.html",
     "main.e0f207b3.css.map": "/LHoRrrr.github.io/ecommerce-website/static/css/main.e0f207b3.css.map",
-    "main.a0575ccd.js.map": "/LHoRrrr.github.io/ecommerce-website/static/js/main.a0575ccd.js.map",
+    "main.00fac0a0.js.map": "/LHoRrrr.github.io/ecommerce-website/static/js/main.00fac0a0.js.map",
     "453.076d0c45.chunk.js.map": "/LHoRrrr.github.io/ecommerce-website/static/js/453.076d0c45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0f207b3.css",
-    "static/js/main.a0575ccd.js"
+    "static/js/main.00fac0a0.js"
   ]
 }
